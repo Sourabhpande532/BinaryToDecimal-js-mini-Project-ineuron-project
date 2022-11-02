@@ -12,7 +12,7 @@
 
 ![HTML & CSS-Assighnment-project](https://img.shields.io/badge/Responsive-Ineuron--Assignment-blue)
 
-## [GO LIVE]()
+## [GO LIVE](https://binary-to-decimal-mini-live-project.netlify.app/)
 
 ## ![website](./Images/Binary_Decimal.png)
 
